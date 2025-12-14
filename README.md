@@ -54,8 +54,7 @@ We conduct three categories of experiments:
     ├── data/
     │   ├── original_human-authored_poetry/   # Public-domain poems used as baselines
     │   ├── poems_and_tags/                   # Form labels and metadata
-    │   ├── dirty_data/                       # Raw, unprocessed text data
-    │   ├── clean_data/                       # Cleaned and standardized poems
+    │   ├── ai_generated_poetry/              # Cleaned and standardized poems from models
     │   ├── repeating_phrases/                # Outputs for duplex repetition analysis
     │   ├── similarity_scores/                # Cosine similarity results
     │   └── duplex_themes.xlsx                # Thematic prompts used for generation
