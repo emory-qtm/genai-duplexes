@@ -47,30 +47,30 @@ We conduct three categories of experiments:
    - Significant word analysis (Monroe et Al's “fighting words”)
 
 ## Repository Structure
-duplex-project/
-├── abstract/
-│ └── DH_2026_abstract.pdf
-│
-├── data/
-│ ├── original_human-authored_poetry/ # Public-domain poems used as baselines
-│ ├── poems_and_tags/ # Form labels and metadata
-│ ├── dirty_data/ # Raw, unprocessed text data
-│ ├── clean_data/ # Cleaned and standardized poems
-│ ├── repeating_phrases/ # Outputs for duplex repetition analysis
-│ ├── similarity_scores/ # Cosine similarity results
-│ └── duplex_themes.xlsx # Thematic prompts used for generation
-│
-├── notebooks/
-│ ├── duplex_form_classification.ipynb
-│ ├── classification_confusion_matrix.ipynb
-│ ├── poem_similarity_analysis.ipynb
-│ ├── duplex_repetition_metrics.ipynb
-│ ├── syllable_meter_rhyme_analysis.ipynb
-│ ├── gpt_duplex_generation.ipynb
-│ ├── gpt4o_duplex_generation.ipynb
-│ ├── claude_duplex_generation.ipynb
-│ ├── olmo_duplex_generation.ipynb
-│ └── model_generation_openai_claude_olmo.ipynb
-│
-└── README.md
+    duplex-project/
+    ├── abstract/
+    │   └── DH_2026_abstract.pdf
+    │
+    ├── data/
+    │   ├── original_human-authored_poetry/   # Public-domain poems used as baselines
+    │   ├── poems_and_tags/                   # Form labels and metadata
+    │   ├── dirty_data/                       # Raw, unprocessed text data
+    │   ├── clean_data/                       # Cleaned and standardized poems
+    │   ├── repeating_phrases/                # Outputs for duplex repetition analysis
+    │   ├── similarity_scores/                # Cosine similarity results
+    │   └── duplex_themes.xlsx                # Thematic prompts used for generation
+    │
+    ├── notebooks/
+    │   ├── duplex_form_classification.ipynb
+    │   ├── classification_confusion_matrix.ipynb
+    │   ├── poem_similarity_analysis.ipynb
+    │   ├── duplex_repetition_metrics.ipynb
+    │   ├── syllable_meter_rhyme_analysis.ipynb
+    │   ├── gpt_duplex_generation.ipynb
+    │   ├── gpt4o_duplex_generation.ipynb
+    │   ├── claude_duplex_generation.ipynb
+    │   ├── olmo_duplex_generation.ipynb
+    │   └── model_generation_openai_claude_olmo.ipynb
+    │
+    └── README.md
 
