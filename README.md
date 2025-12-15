@@ -47,12 +47,13 @@ We conduct three categories of experiments:
    - Significant word analysis (Monroe et Al's “fighting words”)
 
 ## Repository Structure
-   duplex-project/
+
+```text
+duplex-project/
 │
 ├── DH_2026_abstract.pdf
 │
 ├── data/
-│   │
 │   ├── ai_generated_poetry/
 │   │   ├── clean/
 │   │   └── raw/
@@ -74,3 +75,4 @@ We conduct three categories of experiments:
 │   └── duplex-or-not-public.ipynb
 │
 └── README.md
+```
