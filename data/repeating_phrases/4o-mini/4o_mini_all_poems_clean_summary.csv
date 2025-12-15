@@ -1,0 +1,259 @@
+poem_id,subject,with_brown_rules,prompt_type,n_lines,num_pairs_passing_echo,first_last_passes_echo
+0,abuse,False,general,18,0,False
+1,abuse,False,figurative,16,0,False
+2,abuse,False,specific,21,0,False
+3,activities,False,general,16,2,False
+4,activities,False,figurative,14,0,False
+5,activities,False,specific,20,0,False
+6,arts & sciences,False,general,18,0,False
+7,arts & sciences,False,figurative,14,0,False
+8,arts & sciences,False,specific,18,0,False
+9,christianity,False,general,20,2,False
+10,christianity,False,figurative,14,2,False
+11,christianity,False,specific,20,0,False
+12,chronic illness,False,general,18,0,False
+13,chronic illness,False,figurative,22,0,False
+14,chronic illness,False,specific,22,0,False
+15,crime & punishment,False,general,22,0,False
+16,crime & punishment,False,figurative,22,2,False
+17,crime & punishment,False,specific,18,0,False
+18,cycles,False,general,21,0,False
+19,cycles,False,figurative,14,0,False
+20,cycles,False,specific,16,2,True
+21,desire & passion,False,general,16,0,False
+22,desire & passion,False,figurative,20,2,False
+23,desire & passion,False,specific,20,0,True
+24,doubt & contemplation,False,general,22,1,True
+25,doubt & contemplation,False,figurative,20,0,False
+26,doubt & contemplation,False,specific,22,3,True
+27,family & ancestors,False,general,16,2,False
+28,family & ancestors,False,figurative,20,3,False
+29,family & ancestors,False,specific,24,2,False
+30,gender & sexuality,False,general,16,1,True
+31,gender & sexuality,False,figurative,16,6,True
+32,gender & sexuality,False,specific,12,2,False
+33,greek & roman mythology,False,general,16,1,False
+34,greek & roman mythology,False,figurative,22,2,False
+35,greek & roman mythology,False,specific,24,0,False
+36,history & politics,False,general,20,2,True
+37,history & politics,False,figurative,22,2,False
+38,history & politics,False,specific,20,1,False
+39,home life,False,general,24,5,False
+40,home life,False,figurative,28,0,False
+41,home life,False,specific,35,0,False
+42,hope,False,general,16,1,True
+43,hope,False,figurative,22,1,False
+44,hope,False,specific,14,1,False
+45,humor & satire,False,general,16,1,False
+46,humor & satire,False,figurative,18,2,False
+47,humor & satire,False,specific,22,1,False
+48,indoor activities,False,general,14,0,False
+49,indoor activities,False,figurative,14,0,False
+50,indoor activities,False,specific,16,4,False
+51,life choices,False,general,18,4,True
+52,life choices,False,figurative,16,0,False
+53,life choices,False,specific,22,2,True
+54,lgbtq+,False,general,18,1,True
+55,lgbtq+,False,figurative,16,1,True
+56,lgbtq+,False,specific,20,5,False
+57,living,False,general,20,2,True
+58,living,False,figurative,20,3,False
+59,living,False,specific,28,3,False
+60,love,False,general,16,1,False
+61,love,False,figurative,12,0,False
+62,love,False,specific,18,4,False
+63,love death avoidance,False,general,20,1,False
+64,love death avoidance,False,figurative,22,2,False
+65,love death avoidance,False,specific,20,5,False
+66,memory & nostalgia,False,general,18,3,False
+67,memory & nostalgia,False,figurative,14,1,False
+68,memory & nostalgia,False,specific,16,1,False
+69,men & women,False,general,24,5,False
+70,men & women,False,figurative,16,0,False
+71,men & women,False,specific,20,1,False
+72,mythology & folklore,False,general,16,0,False
+73,mythology & folklore,False,figurative,20,0,False
+74,mythology & folklore,False,specific,16,1,False
+75,nature,False,general,16,0,False
+76,nature,False,figurative,16,1,False
+77,nature,False,specific,12,0,False
+78,power,False,general,16,0,False
+79,power,False,figurative,22,0,False
+80,power,False,specific,20,2,False
+81,poetry & poets,False,general,16,1,False
+82,poetry & poets,False,figurative,16,0,False
+83,poetry & poets,False,specific,20,2,False
+84,race & ethnicity,False,general,22,6,True
+85,race & ethnicity,False,figurative,16,4,True
+86,race & ethnicity,False,specific,16,0,False
+87,relationships,False,general,16,3,True
+88,relationships,False,figurative,18,2,False
+89,relationships,False,specific,20,0,False
+90,romantic love,False,general,20,3,True
+91,romantic love,False,figurative,14,1,False
+92,romantic love,False,specific,18,1,True
+93,sexual violence,False,general,14,0,False
+94,sexual violence,False,figurative,22,1,False
+95,sexual violence,False,specific,20,0,False
+96,sorrow & grieving,False,general,14,0,False
+97,sorrow & grieving,False,figurative,16,0,False
+98,sorrow & grieving,False,specific,18,3,False
+99,social commentaries,False,general,18,3,False
+100,social commentaries,False,figurative,22,0,False
+101,social commentaries,False,specific,20,1,True
+102,subjugation,False,general,24,1,False
+103,subjugation,False,figurative,12,2,False
+104,subjugation,False,specific,24,0,False
+105,the mind,False,general,20,1,True
+106,the mind,False,figurative,14,0,False
+107,the mind,False,specific,18,0,False
+108,trees and flowers,False,general,16,0,False
+109,trees and flowers,False,figurative,16,1,False
+110,trees and flowers,False,specific,24,0,False
+111,truth,False,general,18,1,False
+112,truth,False,figurative,20,1,False
+113,truth,False,specific,16,1,False
+114,twilight,False,general,18,0,True
+115,twilight,False,figurative,16,0,True
+116,twilight,False,specific,20,0,False
+117,urban environment,False,general,20,2,True
+118,urban environment,False,figurative,16,0,False
+119,urban environment,False,specific,28,0,False
+120,war & conflict,False,general,22,0,False
+121,war & conflict,False,figurative,20,1,False
+122,war & conflict,False,specific,18,0,False
+123,weather,False,general,16,1,False
+124,weather,False,figurative,12,0,False
+125,weather,False,specific,20,0,False
+126,youth,False,general,18,1,False
+127,youth,False,figurative,20,1,False
+128,youth,False,specific,24,4,True
+129,abuse,True,general,13,12,True
+130,abuse,True,figurative,16,8,True
+131,abuse,True,specific,15,8,True
+132,activities,True,general,16,7,True
+133,activities,True,figurative,16,11,True
+134,activities,True,specific,15,8,True
+135,arts & sciences,True,general,16,7,True
+136,arts & sciences,True,figurative,16,9,True
+137,arts & sciences,True,specific,20,4,True
+138,christianity,True,general,13,7,True
+139,christianity,True,figurative,14,7,True
+140,christianity,True,specific,18,10,True
+141,chronic illness,True,general,16,10,True
+142,chronic illness,True,figurative,15,14,True
+143,chronic illness,True,specific,16,9,True
+144,crime & punishment,True,general,16,4,True
+145,crime & punishment,True,figurative,16,10,True
+146,crime & punishment,True,specific,16,11,True
+147,cycles,True,general,16,7,True
+148,cycles,True,figurative,15,12,True
+149,cycles,True,specific,15,7,True
+150,desire & passion,True,general,15,9,True
+151,desire & passion,True,figurative,16,8,True
+152,desire & passion,True,specific,14,9,True
+153,doubt & contemplation,True,general,14,4,True
+154,doubt & contemplation,True,figurative,14,10,True
+155,doubt & contemplation,True,specific,16,9,True
+156,family & ancestors,True,general,16,8,True
+157,family & ancestors,True,figurative,15,6,True
+158,family & ancestors,True,specific,15,7,True
+159,gender & sexuality,True,general,14,11,True
+160,gender & sexuality,True,figurative,16,15,True
+161,gender & sexuality,True,specific,16,4,True
+162,greek & roman mythology,True,general,14,6,True
+163,greek & roman mythology,True,figurative,16,6,True
+164,greek & roman mythology,True,specific,15,7,True
+165,history & politics,True,general,15,7,True
+166,history & politics,True,figurative,15,13,True
+167,history & politics,True,specific,15,2,True
+168,home life,True,general,14,4,True
+169,home life,True,figurative,16,5,True
+170,home life,True,specific,16,8,True
+171,hope,True,general,16,5,True
+172,hope,True,figurative,15,4,True
+173,hope,True,specific,16,7,True
+174,humor & satire,True,general,16,9,True
+175,humor & satire,True,figurative,14,9,True
+176,humor & satire,True,specific,14,2,True
+177,indoor activities,True,general,16,4,True
+178,indoor activities,True,figurative,16,11,True
+179,indoor activities,True,specific,16,7,True
+180,life choices,True,general,16,9,True
+181,life choices,True,figurative,16,7,True
+182,life choices,True,specific,16,4,True
+183,lgbtq+,True,general,16,5,True
+184,lgbtq+,True,figurative,14,7,True
+185,lgbtq+,True,specific,14,7,True
+186,living,True,general,16,10,True
+187,living,True,figurative,14,4,True
+188,living,True,specific,15,7,True
+189,love,True,general,18,7,True
+190,love,True,figurative,16,10,True
+191,love,True,specific,16,10,True
+192,love death avoidance,True,general,16,7,True
+193,love death avoidance,True,figurative,14,5,True
+194,love death avoidance,True,specific,16,8,True
+195,memory & nostalgia,True,general,13,6,False
+196,memory & nostalgia,True,figurative,16,7,True
+197,memory & nostalgia,True,specific,16,7,True
+198,men & women,True,general,14,6,True
+199,men & women,True,figurative,16,7,True
+200,men & women,True,specific,16,5,True
+201,mythology & folklore,True,general,14,5,True
+202,mythology & folklore,True,figurative,16,6,True
+203,mythology & folklore,True,specific,16,4,True
+204,nature,True,general,16,15,True
+205,nature,True,figurative,13,6,True
+206,nature,True,specific,16,8,True
+207,power,True,general,16,9,True
+208,power,True,figurative,16,6,True
+209,power,True,specific,16,15,True
+210,poetry & poets,True,general,14,5,True
+211,poetry & poets,True,figurative,16,10,True
+212,poetry & poets,True,specific,16,3,True
+213,race & ethnicity,True,general,14,9,True
+214,race & ethnicity,True,figurative,14,4,True
+215,race & ethnicity,True,specific,16,9,True
+216,relationships,True,general,15,11,True
+217,relationships,True,figurative,16,7,True
+218,relationships,True,specific,17,5,True
+219,romantic love,True,general,16,5,True
+220,romantic love,True,figurative,16,8,True
+221,romantic love,True,specific,15,11,True
+222,sexual violence,True,general,16,5,True
+223,sexual violence,True,figurative,14,9,True
+224,sexual violence,True,specific,18,5,True
+225,sorrow & grieving,True,general,14,4,True
+226,sorrow & grieving,True,figurative,16,2,True
+227,sorrow & grieving,True,specific,16,7,True
+228,social commentaries,True,general,16,5,True
+229,social commentaries,True,figurative,14,8,True
+230,social commentaries,True,specific,15,5,True
+231,subjugation,True,general,16,8,True
+232,subjugation,True,figurative,16,9,True
+233,subjugation,True,specific,14,8,True
+234,the mind,True,general,16,7,True
+235,the mind,True,figurative,16,7,True
+236,the mind,True,specific,16,9,True
+237,trees and flowers,True,general,15,3,True
+238,trees and flowers,True,figurative,15,11,True
+239,trees and flowers,True,specific,18,0,True
+240,truth,True,general,14,7,True
+241,truth,True,figurative,16,6,True
+242,truth,True,specific,15,10,True
+243,twilight,True,general,14,4,True
+244,twilight,True,figurative,14,8,True
+245,twilight,True,specific,15,7,True
+246,urban environment,True,general,16,7,True
+247,urban environment,True,figurative,16,4,True
+248,urban environment,True,specific,15,8,True
+249,war & conflict,True,general,16,5,True
+250,war & conflict,True,figurative,14,3,True
+251,war & conflict,True,specific,16,9,True
+252,weather,True,general,14,4,False
+253,weather,True,figurative,14,7,True
+254,weather,True,specific,16,6,True
+255,youth,True,general,16,9,True
+256,youth,True,figurative,15,6,True
+257,youth,True,specific,16,5,True

@@ -1,0 +1,71 @@
+pair_index,pair_type,matches,num_matches,max_phrase_len,max_phrase_example,passes_echo,poem_id,author,poem_title,form
+0,adjacent,,0,0,,False,0,Jericho Brown,Duplex (p. 18),duplex
+1,adjacent,"dark, demand, make, my",4,2,my own,True,0,Jericho Brown,Duplex (p. 18),duplex
+2,adjacent,my,1,1,my,True,0,Jericho Brown,Duplex (p. 18),duplex
+3,adjacent,"burgundy, car, drive, love, my",5,5,love drove a burgundy car,True,0,Jericho Brown,Duplex (p. 18),duplex
+4,adjacent,my,1,1,my,True,0,Jericho Brown,Duplex (p. 18),duplex
+5,adjacent,"awful, father, my, tall",4,2,and awful,True,0,Jericho Brown,Duplex (p. 18),duplex
+6,adjacent,,0,0,,False,0,Jericho Brown,Duplex (p. 18),duplex
+7,adjacent,"hit, leave, mark",3,0,,True,0,Jericho Brown,Duplex (p. 18),duplex
+8,adjacent,,0,0,,False,0,Jericho Brown,Duplex (p. 18),duplex
+9,adjacent,"like, mother, sound, weep",4,4,like the sound of,True,0,Jericho Brown,Duplex (p. 18),duplex
+10,adjacent,sound,1,1,sound,True,0,Jericho Brown,Duplex (p. 18),duplex
+11,adjacent,"beat, begin, end",3,1,began,True,0,Jericho Brown,Duplex (p. 18),duplex
+12,adjacent,,0,0,,False,0,Jericho Brown,Duplex (p. 18),duplex
+13,first_last,"gesture, home, poem",3,7,a poem is a gesture toward home,True,0,Jericho Brown,Duplex (p. 18),duplex
+0,adjacent,,0,1,of,False,1,Jericho Brown,Duplex (p. 27),duplex
+1,adjacent,"call, field, flower, paintbrush",4,6,a field of flowers called paintbrushes,True,1,Jericho Brown,Duplex (p. 27),duplex
+2,adjacent,,0,0,,False,1,Jericho Brown,Duplex (p. 27),duplex
+3,adjacent,"actual, spring",2,7,though the spring be less than actual,True,1,Jericho Brown,Duplex (p. 27),duplex
+4,adjacent,,0,0,,False,1,Jericho Brown,Duplex (p. 27),duplex
+5,adjacent,"hurt, i, man, roam",4,2,men roam,True,1,Jericho Brown,Duplex (p. 27),duplex
+6,adjacent,i,1,0,,True,1,Jericho Brown,Duplex (p. 27),duplex
+7,adjacent,"field, obliterate",2,2,to obliterate,True,1,Jericho Brown,Duplex (p. 27),duplex
+8,adjacent,,0,1,the,False,1,Jericho Brown,Duplex (p. 27),duplex
+9,adjacent,"building, grass",2,2,a building,True,1,Jericho Brown,Duplex (p. 27),duplex
+10,adjacent,,0,1,a,False,1,Jericho Brown,Duplex (p. 27),duplex
+11,adjacent,"body, disrepair, my, temple",4,4,a temple in disrepair,True,1,Jericho Brown,Duplex (p. 27),duplex
+12,adjacent,,0,1,is,False,1,Jericho Brown,Duplex (p. 27),duplex
+13,first_last,"opposite, rape, understand",3,6,the opposite of rape is understanding,True,1,Jericho Brown,Duplex (p. 27),duplex
+0,adjacent,i,1,1,i,True,2,Jericho Brown,Duplex (p. 49),duplex
+1,adjacent,"corpse, i, leave, messy, want",5,9,i do n't want to leave a messy corpse,True,2,Jericho Brown,Duplex (p. 49),duplex
+2,adjacent,,0,0,,False,2,Jericho Brown,Duplex (p. 49),duplex
+3,adjacent,"medicine, sun, turn",3,4,turn in the sun,True,2,Jericho Brown,Duplex (p. 49),duplex
+4,adjacent,some,1,2,some of,True,2,Jericho Brown,Duplex (p. 49),duplex
+5,adjacent,"good, hell, need",3,5,need hell to be good,True,2,Jericho Brown,Duplex (p. 49),duplex
+6,adjacent,,0,0,,False,2,Jericho Brown,Duplex (p. 49),duplex
+7,adjacent,"sickness, symptom",2,1,of,True,2,Jericho Brown,Duplex (p. 49),duplex
+8,adjacent,,0,0,,False,2,Jericho Brown,Duplex (p. 49),duplex
+9,adjacent,"i, man, miss, who",4,6,me are men who miss me,True,2,Jericho Brown,Duplex (p. 49),duplex
+10,adjacent,i,1,0,,True,2,Jericho Brown,Duplex (p. 49),duplex
+11,adjacent,"dream, i, island",3,8,in the dream where i am an island,True,2,Jericho Brown,Duplex (p. 49),duplex
+12,adjacent,i,1,1,i,True,2,Jericho Brown,Duplex (p. 49),duplex
+13,first_last,"end, i",2,3,to end there,True,2,Jericho Brown,Duplex (p. 49),duplex
+0,adjacent,"i, man",2,1,n't,True,3,Jericho Brown,Duplex (p. 68),duplex
+1,adjacent,"i, know, man, you",4,9,when i did n't know you had a man,True,3,Jericho Brown,Duplex (p. 68),duplex
+2,adjacent,,0,0,,False,3,Jericho Brown,Duplex (p. 68),duplex
+3,adjacent,blackout,1,1,the,True,3,Jericho Brown,Duplex (p. 68),duplex
+4,adjacent,i,1,1,i,True,3,Jericho Brown,Duplex (p. 68),duplex
+5,adjacent,young,1,1,was,True,3,Jericho Brown,Duplex (p. 68),duplex
+6,adjacent,he,1,1,he,True,3,Jericho Brown,Duplex (p. 68),duplex
+7,adjacent,"dip, embalm, fluid, he, weed",5,4,weed in embalming fluid,True,3,Jericho Brown,Duplex (p. 68),duplex
+8,adjacent,,0,1,'d,False,3,Jericho Brown,Duplex (p. 68),duplex
+9,adjacent,love,1,1,love,True,3,Jericho Brown,Duplex (p. 68),duplex
+10,adjacent,,0,2,in the,True,3,Jericho Brown,Duplex (p. 68),duplex
+11,adjacent,"city, home",2,2,at home,True,3,Jericho Brown,Duplex (p. 68),duplex
+12,adjacent,,0,1,a,False,3,Jericho Brown,Duplex (p. 68),duplex
+13,first_last,"accuse, i, man, sleep",4,6,n't accuse me of sleeping with,True,3,Jericho Brown,Duplex (p. 68),duplex
+0,adjacent,,0,1,a,False,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+1,adjacent,"sickness, symptom",2,1,sickness,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+2,adjacent,our,1,1,our,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+3,adjacent,"begin, end, they",3,2,none of,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+4,adjacent,,0,0,,False,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+5,adjacent,"corpse, messy",2,3,a messy corpse,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+6,adjacent,,0,0,,False,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+7,adjacent,"field, obliterate",2,1,field,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+8,adjacent,,0,1,the,False,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+9,adjacent,"unreasonable, young",2,1,young,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+10,adjacent,,0,0,,False,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+11,adjacent,"awful, father, my, steadfast, tall",5,3,steadfast and awful,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+12,adjacent,my,1,1,my,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex
+13,first_last,"burgundy, car, drive, love, my",5,4,drove a burgundy car,True,4,Jericho Brown,Duplex: Cento (p. 72),duplex

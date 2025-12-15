@@ -1,0 +1,6 @@
+poem_id,author,poem_title,form,n_lines,num_pairs_passing_echo,first_last_passes_echo
+0,Jericho Brown,Duplex (p. 18),duplex,14,9,True
+1,Jericho Brown,Duplex (p. 27),duplex,14,7,True
+2,Jericho Brown,Duplex (p. 49),duplex,14,10,True
+3,Jericho Brown,Duplex (p. 68),duplex,14,10,True
+4,Jericho Brown,Duplex: Cento (p. 72),duplex,14,8,True
